@@ -1,0 +1,34 @@
+body{
+    font-family: 'Teko', sans-serif;
+}
+.container{
+    margin-bottom: 80px;
+}
+.orange-bg{
+    background-color: #FF267B;
+    border-radius: 10px;
+
+}
+h1,h3{
+    color: #FFBD24 ;
+    font-size: 30px;
+}
+p{
+    color: rgb(3, 2, 2);
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: rgb(92, 21, 224);
+}
+.cat2{
+    background-color: rgb(15, 10, 5);
+}
+.cat3{
+    background-color: rgb(6, 212, 40);
+}
